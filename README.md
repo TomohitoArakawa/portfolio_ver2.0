@@ -1,2 +1,2 @@
 # single-page-application
-Production environment for SPA
+Production environment for SPA by React
